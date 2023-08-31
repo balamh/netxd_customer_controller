@@ -5,11 +5,13 @@ import (
 	"fmt"
 	"net"
 
+	"github.com/balamh/netxd_config/config"
+	"github.com/balamh/netxd_config/constants"
 	"github.com/balamh/netxd_customer_controller/controllers"
 	"github.com/balamh/netxd_dal/netxd_dal_services"
+	pro "github.com/balamh/project1/netxd_customer"
 	"go.mongodb.org/mongo-driver/mongo"
 	"google.golang.org/grpc"
-	pro "github.com/balamh/project1/netxd_customer"
 )
 
 func InitDatabase(client *mongo.Client) {

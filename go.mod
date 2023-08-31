@@ -8,6 +8,7 @@ require (
 )
 
 require (
+	github.com/balamh/netxd_config v1.0.1 // indirect
 	github.com/balamh/netxd_dal v1.0.1 // indirect
 	github.com/balamh/project1 v1.0.1 // indirect
 	github.com/golang/protobuf v1.5.3 // indirect
