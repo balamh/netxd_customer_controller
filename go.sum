@@ -1,5 +1,7 @@
 github.com/balamh/netxd_dal v1.0.1 h1:qxy7kAIyst4W+xlw7lfUuAsxEyOCYq/rjeEjt/7s/XM=
 github.com/balamh/netxd_dal v1.0.1/go.mod h1:xh4VzJ8wVvkFOR0GsQ7sg+W8Ija587ycIN72Opi4bnU=
+github.com/balamh/project1 v1.0.1 h1:Ji7uMg94RaegdPPT9H+mS7YYGqJEQuGWHOriW9AbbME=
+github.com/balamh/project1 v1.0.1/go.mod h1:Sq8+GWy3Eo7MgpSfJVShnBxCUnKmss6ubLeDsS5mnWs=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/golang/protobuf v1.5.0/go.mod h1:FsONVRAS9T7sI+LIUmWTfcYkHO4aIWwzhcaSAoJOfIk=
