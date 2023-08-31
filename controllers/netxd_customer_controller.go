@@ -5,7 +5,7 @@ import (
 
 	"github.com/balamh/netxd_dal/netxd_dal_interfaces"
 	"github.com/balamh/netxd_dal/netxd_dal_models"
-	// pro "github.com/netxd/project1/netxd_customer"
+	pro "github.com/balamh/project1/netxd_customer"
 )
 
 type RPCServer struct {
